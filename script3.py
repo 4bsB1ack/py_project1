@@ -4,7 +4,8 @@ import watchdog.observers
 import time
 import os 
 
-
+## this is only a test to commit 
+file1= "just a test"
 data_file ="file_r.txt"
 
 # get current directory
